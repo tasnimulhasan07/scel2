@@ -1,6 +1,6 @@
 # Mobile-Protfolio
 
-This site will be used as a mobile application to show off Rizwan Hasan' protfolio, here he will display all projects that he worked on previously to prove his programming skills.
+This site will be used as a mobile application to show off Tasnimul Hasan' protfolio, here he will display all projects that he worked on previously to prove his programming skills.
 ______________
 # Built With <br>
 HTML and CSS <br>
@@ -33,9 +33,9 @@ _________________
 
 # 👤 Author1 <br>
 
-GitHub: @rizwan-learn <br>
-Twitter: @rizwanhasan21 <br>
-LinkedIn: rizwanhasan21 <br>
+GitHub: @tasnimulhasan07 <br>
+Twitter: @tasnimulhasan07 <br>
+LinkedIn: tasnimulhasan07 <br>
 
 _________________
 
