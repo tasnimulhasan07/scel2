@@ -1,6 +1,6 @@
 # Mobile-Protfolio
 
-This site will be used as a mobile application to show off Rizwan Hasan' protfolio, here he will display all projects that he worked on previously to prove his programming skills.
+This site will be used as a mobile application to show off Tasnimul Hasan' protfolio, here he will display all projects that he worked on previously to prove his programming skills.
 ______________
 # Built With <br>
 HTML and CSS <br>
@@ -28,21 +28,21 @@ Run tests <br>
 test can me ran locally on your meachine by using the run function on your IDE.
 
 Deployment <br>
-restrict deployment 
+restrict deployment
 _________________
 
 # 👤 Author1 <br>
 
-GitHub: @rizwan-learn <br>
-Twitter: @rizwanhasan21 <br>
-LinkedIn: rizwanhasan21 <br>
+GitHub: @tasnimulhasan07 <br>
+Twitter: @tasnimulhasan07 <br>
+LinkedIn: tasnimulhasan07 <br>
 
 _________________
 
 # 🤝 Contributing <br>
 Contributions, issues, and feature requests are welcome! <br>
 
-Feel free to check the https://github.com/Rizwan-learn/Hello_Microverse_Project to get the project.
+Feel free to check the https://github.com/tasnimulhasan07/hello-microverse-00 to get the project.
 
 # Show your support <br>
 Give a ⭐️ if you like this project!
